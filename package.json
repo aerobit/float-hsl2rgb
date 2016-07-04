@@ -1,0 +1,19 @@
+{
+  "name": "float-hsl2rgb",
+  "version": "1.0.0",
+  "description": "Converts an array of floats [H,S,L] to an array of floats [R,G,B]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "hsl",
+    "rgb"
+  ],
+  "author": "Ari Lotter",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
